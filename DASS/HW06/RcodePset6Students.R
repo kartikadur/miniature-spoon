@@ -2,7 +2,6 @@
 #---------------------------------------------------------
 rm(list = ls())
 library("mvtnorm")
-#setwd("/Users/raz/Dropbox/14.31 edX Building the Course/Problem Sets/PSET 6")
 #setwd("C:/Users/kishore adur/Documents/kartik-dass/homework/HW06")
 
 real_theta <- 5
