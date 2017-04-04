@@ -2,7 +2,7 @@
 
 rm(list = ls())
 library(car)
-setwd("/Users/raz/Dropbox/14.31 edX Building the Course/Problem Sets/PSET 9")
+
 nlsw88 <- read.csv('nlsw88.csv')
 
 #covariance
