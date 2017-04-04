@@ -1,6 +1,6 @@
 #preliminaries
 rm(list = ls())
-#setwd("/Users/raz/Dropbox/14.31 edX Building the Course/Problem Sets/PSET 7")
+
 #setwd("C:/Users/kishore adur/Documents/kartik-dass/homework/HW07")
 
 #Real value of theta
