@@ -3,7 +3,7 @@
 #install.packages('perm')
 library(perm)
 rm(list = ls())
-#setwd("/Users/raz/Dropbox/14.31 edX Building the Course/Problem Sets/PSET 8")
+
 setwd("C:/Users/kishore adur/Documents/kartik-dass/homework/HW08")
 
 # Questions 1 - 4
